@@ -8,7 +8,7 @@ I'm looking to explore compiler architectures at a more relaxed pace. Recognizin
 To step into the world of compilers, here are my loose plans:
 - Complete[^3] the [VitaminC](https://github.com/fruits-lab/VitaminC) 🍋 project, a simple C compiler written in C++. Crafting a C compiler is an essential endeavor for anyone aspiring to understand compilers[^4] 😏.
 - Finish reading the book _[Compilers: Principles, Techniques, and Tools](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools)_ 🐉. I can't grasp how the compiler functions without understanding its objectives.
-- Learn _[Rust](https://www.rust-lang.org/)_. Rust, heavily supported by the LLVM infrastructure, introduces an additional layer of [IR](https://en.wikipedia.org/wiki/Intermediate_representation) to facilitate its unique [borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html) mechanism, which I find quite fascinating 😎.
+- Learn _[Rust](https://www.rust-lang.org/)_. Rust, heavily supported by the LLVM infrastructure, introduces [an additional layer of intermediate representation (IR)](https://rustc-dev-guide.rust-lang.org/mir/index.html) to facilitate its unique [borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html) mechanism, which I find quite fascinating 😎.
 
 [^1]: Currently, my most used and favorite programming language 💻.
 [^2]: Extracted from [Parsing C++ in Python with Clang](https://eli.thegreenplace.net/2011/07/03/parsing-c-in-python-with-clang).
